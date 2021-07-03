@@ -1,2 +1,2 @@
 # DevOpsHIt
-Technical Talk
+Tech Talk
